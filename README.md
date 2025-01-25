@@ -25,11 +25,12 @@ git clone https://github.com/your-username/Technical-Support-Center-Simulation.g
 cd Technical-Support-Center-Simulation
 ```
 ### 2. Run the Simulation
-Ensure you have Java (JRE v11) and the DEVS-SUITE installed.
+Ensure you have Java (JRE v11) and the DEVS-SUITE (from SourceForge) installed.
 
-Open the project in Eclipse IDE or any compatible Java IDE.
+Open the project in Eclipse IDE or any compatible Java IDE. Include the files of "Technical-Support-Center-Simulation-DEVS/CSE561Project/DEVS-Suite/Models/Component
+/Project/" in the DEVS-Suite Project.
 
-Run the Main.java file to start the simulation.
+Run the Transducer.java file to start the simulation.
 
 ### 3. Analyze Results
 The simulation outputs key metrics such as resolution rates, escalation times, and throughput.
