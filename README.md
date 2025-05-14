@@ -21,7 +21,7 @@ This repository contains the code, documentation, and resources for simulating a
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/Technical-Support-Center-Simulation.git
+git clone https://github.com/Sujith-the-great/Technical-Support-Center-Simulation-DEVS.git
 cd Technical-Support-Center-Simulation
 ```
 ### 2. Run the Simulation
